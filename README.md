@@ -1,3 +1,18 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:37003C,60:4C1D95,100:2563EB&text=Premier%20League%2024%2F25%20BI%20Analysis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/League-Premier%20League-37003C?style=for-the-badge&logo=premierleague&logoColor=white">
+<img src="https://img.shields.io/badge/Season-2024%2F2025-16a34a?style=for-the-badge">
+<img src="https://img.shields.io/badge/BI-Dashboard-1e3a8a?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
 # 🏆 Premier League 24/25 — Análise com Business Intelligence ⚽
 
 ## 📘 Introdução
